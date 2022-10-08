@@ -1,0 +1,14 @@
+{
+  "name": "@dada-fe-cli/template-vue2",
+  "version": "1.0.0",
+  "description": "dada-fe-cli vue2 standard template",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "kui <872505550@qq.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
